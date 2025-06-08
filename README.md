@@ -17,6 +17,6 @@ El presente análisis se ha realizado con un conjunto de datos registrados desde
 
 - Analizaremos la naturaleza de los datos y tomaremos en cuenta la población para determinar los trabajos mejor pagados, si bien el pico puede estar en un puesto especifico hay que tomar en cuenta tambien la cantidad de registros por cada puesto dentro del estudio.
 
-- #### Acompáñanos en este análisis de salarios en roles tecnológicos a nivel global
+#### Acompáñanos en este análisis de salarios en roles tecnológicos a nivel global
 - Descubre las diferentes conclusiones en base a los estudios realizados.
 - Analiza los diferentes gráficos y saca tus propias conclusiones, si bien nuestro análisis te presentara los puntos de vista finales puedes crear tu propio análisis en base a factores personales que quieras considerar
